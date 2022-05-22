@@ -1,2 +1,4 @@
 # プロジェクトの除外パス
 /node_modules/
+/.idea/
+/settings/
